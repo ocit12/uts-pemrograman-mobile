@@ -8,7 +8,6 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="24dp"
-    android:background="@drawable/mikasa"
     tools:context=".MainActivity">
 
     <TextView
